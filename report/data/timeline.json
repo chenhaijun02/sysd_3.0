@@ -1,0 +1,173 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-MH00R44",
+    "children" : [ {
+      "name" : "3188-MainThread",
+      "children" : [ {
+        "name" : "test_login[用户名密码都为空]",
+        "uid" : "ee58eb2d4fdd5b8d",
+        "parentUid" : "727aa769d16da58f20844b8453eda913",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604972058860,
+          "stop" : 1604972058975,
+          "duration" : 115
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '用户名密码都为空', 'LoginType': '0', 'Password': '', 'UserName': '', 'Message': '用户名或密码不正确'}" ]
+      }, {
+        "name" : "test_login[用户名为空]",
+        "uid" : "8cdd87c6446dd9ed",
+        "parentUid" : "727aa769d16da58f20844b8453eda913",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604972058615,
+          "stop" : 1604972058739,
+          "duration" : 124
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '用户名为空', 'LoginType': '0', 'Password': '31b69a7494a0eec4ac544fd648c9d604', 'UserName': None, 'Message': '用户名或密码不正确'}" ]
+      }, {
+        "name" : "test_login[密码为空]",
+        "uid" : "f6b6c6db83d4ff3b",
+        "parentUid" : "727aa769d16da58f20844b8453eda913",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604972058741,
+          "stop" : 1604972058850,
+          "duration" : 109
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '密码为空', 'LoginType': '0', 'Password': '', 'UserName': 'admin', 'Message': '用户名或密码不正确'}" ]
+      }, {
+        "name" : "test_login[成功登录]",
+        "uid" : "9a7411d47eb535b4",
+        "parentUid" : "727aa769d16da58f20844b8453eda913",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604972057900,
+          "stop" : 1604972058377,
+          "duration" : 477
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '成功登录', 'LoginType': '0', 'Password': '31b69a7494a0eec4ac544fd648c9d604', 'UserName': 'admin', 'Message': None}" ]
+      }, {
+        "name" : "test_login[用户名错误]",
+        "uid" : "23a63b05273dc500",
+        "parentUid" : "727aa769d16da58f20844b8453eda913",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604972058381,
+          "stop" : 1604972058499,
+          "duration" : 118
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '用户名错误', 'LoginType': '0', 'Password': '31b69a7494a0eec4ac544fd648c9d604', 'UserName': 'admin1', 'Message': '用户名或密码不正确'}" ]
+      }, {
+        "name" : "test_login[密码错误]",
+        "uid" : "74c5a9ae12498c04",
+        "parentUid" : "727aa769d16da58f20844b8453eda913",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604972058501,
+          "stop" : 1604972058613,
+          "duration" : 112
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '密码错误', 'LoginType': '0', 'Password': '31b69a7494a0eec4ac544fd648c9d62', 'UserName': 'admin', 'Message': '用户名或密码不正确'}" ]
+      } ],
+      "uid" : "727aa769d16da58f20844b8453eda913"
+    }, {
+      "name" : "10644-MainThread",
+      "children" : [ {
+        "name" : "test_login[用户名错误]",
+        "uid" : "f96752baed5fed94",
+        "parentUid" : "5d63a33f9155dd8b40a0071a01002ac7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604971763703,
+          "stop" : 1604971763790,
+          "duration" : 87
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '用户名错误', 'LoginType': '0', 'Password': '31b69a7494a0eec4ac544fd648c9d604', 'UserName': 'admin1', 'Message': '用户名或密码不正确'}" ]
+      }, {
+        "name" : "test_login[成功登录]",
+        "uid" : "a7a6edf96cadf547",
+        "parentUid" : "5d63a33f9155dd8b40a0071a01002ac7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604971763482,
+          "stop" : 1604971763695,
+          "duration" : 213
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '成功登录', 'LoginType': '0', 'Password': '31b69a7494a0eec4ac544fd648c9d604', 'UserName': 'admin', 'Message': None}" ]
+      }, {
+        "name" : "test_login[用户名为空]",
+        "uid" : "765024d363578ff5",
+        "parentUid" : "5d63a33f9155dd8b40a0071a01002ac7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604971763895,
+          "stop" : 1604971763979,
+          "duration" : 84
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '用户名为空', 'LoginType': '0', 'Password': '31b69a7494a0eec4ac544fd648c9d604', 'UserName': None, 'Message': '用户名或密码不正确'}" ]
+      }, {
+        "name" : "test_login[用户名密码都为空]",
+        "uid" : "b999565e12c4858f",
+        "parentUid" : "5d63a33f9155dd8b40a0071a01002ac7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604971764072,
+          "stop" : 1604971764165,
+          "duration" : 93
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '用户名密码都为空', 'LoginType': '0', 'Password': '', 'UserName': '', 'Message': '用户名或密码不正确'}" ]
+      }, {
+        "name" : "test_login[密码为空]",
+        "uid" : "5940637332f4606e",
+        "parentUid" : "5d63a33f9155dd8b40a0071a01002ac7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604971763981,
+          "stop" : 1604971764070,
+          "duration" : 89
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '密码为空', 'LoginType': '0', 'Password': '', 'UserName': 'admin', 'Message': '用户名或密码不正确'}" ]
+      }, {
+        "name" : "test_login[密码错误]",
+        "uid" : "26871ad5d7807c7b",
+        "parentUid" : "5d63a33f9155dd8b40a0071a01002ac7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604971763800,
+          "stop" : 1604971763893,
+          "duration" : 93
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '密码错误', 'LoginType': '0', 'Password': '31b69a7494a0eec4ac544fd648c9d62', 'UserName': 'admin', 'Message': '用户名或密码不正确'}" ]
+      } ],
+      "uid" : "5d63a33f9155dd8b40a0071a01002ac7"
+    } ],
+    "uid" : "1ab8d9b490d03b02f1707baeacdb9872"
+  } ]
+}

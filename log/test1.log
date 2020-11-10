@@ -1,0 +1,23 @@
+
+2020-11-10 09:36:27,644 - [mylogger.py-->line:54] - INFO: [2020-11-10 09:36:27] func:test_login (<testcases.test_login.TestLogin object at 0x0000022C8C6CEA88>,) --> None
+2020-11-10 09:36:27,787 - [mylogger.py-->line:54] - INFO: [2020-11-10 09:36:27] func:test_login (<testcases.test_login.TestLogin object at 0x0000022C8C690E08>,) --> None
+2020-11-10 09:36:27,911 - [mylogger.py-->line:54] - INFO: [2020-11-10 09:36:27] func:test_login (<testcases.test_login.TestLogin object at 0x0000022C8C690C48>,) --> None
+2020-11-10 09:36:28,042 - [mylogger.py-->line:54] - INFO: [2020-11-10 09:36:27] func:test_login (<testcases.test_login.TestLogin object at 0x0000022C8C6D6CC8>,) --> None
+2020-11-10 09:36:28,172 - [mylogger.py-->line:54] - INFO: [2020-11-10 09:36:28] func:test_login (<testcases.test_login.TestLogin object at 0x0000022C8C6DDA48>,) --> None
+2020-11-10 09:36:28,299 - [mylogger.py-->line:54] - INFO: [2020-11-10 09:36:28] func:test_login (<testcases.test_login.TestLogin object at 0x0000022C8C6DD988>,) --> None
+2020-11-10 09:42:19,024 - [mylogger.py-->line:56] - INFO: [2020-11-10 09:42:18] func:test_login (<testcases.test_login.TestLogin object at 0x0000025F0607BBC8>,) --> None
+2020-11-10 09:42:19,109 - [mylogger.py-->line:56] - INFO: [2020-11-10 09:42:19] func:test_login (<testcases.test_login.TestLogin object at 0x0000025F0603BE88>,) --> None
+2020-11-10 09:42:19,202 - [mylogger.py-->line:56] - INFO: [2020-11-10 09:42:19] func:test_login (<testcases.test_login.TestLogin object at 0x0000025F0606E7C8>,) --> None
+2020-11-10 09:42:19,299 - [mylogger.py-->line:56] - INFO: [2020-11-10 09:42:19] func:test_login (<testcases.test_login.TestLogin object at 0x0000025F0607BAC8>,) --> None
+2020-11-10 09:42:19,387 - [mylogger.py-->line:56] - INFO: [2020-11-10 09:42:19] func:test_login (<testcases.test_login.TestLogin object at 0x0000025F060829C8>,) --> None
+2020-11-10 09:42:19,480 - [mylogger.py-->line:56] - INFO: [2020-11-10 09:42:19] func:test_login (<testcases.test_login.TestLogin object at 0x0000025F06078888>,) --> None
+2020-11-10 09:42:36,296 - [mylogger.py-->line:56] - INFO: [2020-11-10 09:42:35] func:test_login (<testcases.test_login.TestLogin object at 0x000001A605DE1BC8>,) --> None
+2020-11-10 09:42:36,431 - [mylogger.py-->line:56] - INFO: [2020-11-10 09:42:36] func:test_login (<testcases.test_login.TestLogin object at 0x000001A605DA4F08>,) --> None
+2020-11-10 09:42:36,573 - [mylogger.py-->line:56] - INFO: [2020-11-10 09:42:36] func:test_login (<testcases.test_login.TestLogin object at 0x000001A605DA4F48>,) --> None
+2020-11-10 09:42:36,716 - [mylogger.py-->line:56] - INFO: [2020-11-10 09:42:36] func:test_login (<testcases.test_login.TestLogin object at 0x000001A605DEA848>,) --> None
+2020-11-10 09:42:36,857 - [mylogger.py-->line:56] - INFO: [2020-11-10 09:42:36] func:test_login (<testcases.test_login.TestLogin object at 0x000001A605DE5BC8>,) --> None
+2020-11-10 09:50:17,923 - [mylogger.py-->line:56] - INFO: [2020-11-10 09:50:17] func:test_login (<testcases.test_login.TestLogin object at 0x0000018EAA865E88>,) --> None
+2020-11-10 09:50:18,144 - [mylogger.py-->line:56] - INFO: [2020-11-10 09:50:17] func:test_login (<testcases.test_login.TestLogin object at 0x0000018EAA783EC8>,) --> None
+2020-11-10 09:50:18,389 - [mylogger.py-->line:56] - INFO: [2020-11-10 09:50:18] func:test_login (<testcases.test_login.TestLogin object at 0x0000018EAA865DC8>,) --> None
+2020-11-10 09:50:18,629 - [mylogger.py-->line:56] - INFO: [2020-11-10 09:50:18] func:test_login (<testcases.test_login.TestLogin object at 0x0000018EAA82F548>,) --> None
+2020-11-10 09:50:18,862 - [mylogger.py-->line:56] - INFO: [2020-11-10 09:50:18] func:test_login (<testcases.test_login.TestLogin object at 0x0000018EAA82F0C8>,) --> None

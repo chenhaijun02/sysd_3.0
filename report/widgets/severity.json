@@ -1,0 +1,61 @@
+[ {
+  "uid" : "9a7411d47eb535b4",
+  "name" : "test_login[成功登录]",
+  "time" : {
+    "start" : 1604972057900,
+    "stop" : 1604972058377,
+    "duration" : 477
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee58eb2d4fdd5b8d",
+  "name" : "test_login[用户名密码都为空]",
+  "time" : {
+    "start" : 1604972058860,
+    "stop" : 1604972058975,
+    "duration" : 115
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "23a63b05273dc500",
+  "name" : "test_login[用户名错误]",
+  "time" : {
+    "start" : 1604972058381,
+    "stop" : 1604972058499,
+    "duration" : 118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74c5a9ae12498c04",
+  "name" : "test_login[密码错误]",
+  "time" : {
+    "start" : 1604972058501,
+    "stop" : 1604972058613,
+    "duration" : 112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6b6c6db83d4ff3b",
+  "name" : "test_login[密码为空]",
+  "time" : {
+    "start" : 1604972058741,
+    "stop" : 1604972058850,
+    "duration" : 109
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8cdd87c6446dd9ed",
+  "name" : "test_login[用户名为空]",
+  "time" : {
+    "start" : 1604972058615,
+    "stop" : 1604972058739,
+    "duration" : 124
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
